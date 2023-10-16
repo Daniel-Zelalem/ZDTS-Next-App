@@ -1,3 +1,7 @@
+![Screenshot (1)](https://github.com/Daniel-Zelalem/ZDTS-Next-App/assets/106803484/090ad10e-535b-475f-8ffa-59fd7bffba25)
+![Screenshot (2)](https://github.com/Daniel-Zelalem/ZDTS-Next-App/assets/106803484/3e78b8aa-c401-41b3-a26e-862d744cb62f)
+![Screenshot (3)](https://github.com/Daniel-Zelalem/ZDTS-Next-App/assets/106803484/7ac848f4-1b5f-4d7e-bea0-525d502ec866)
+![Screenshot (4)](https://github.com/Daniel-Zelalem/ZDTS-Next-App/assets/106803484/b2a42d69-35a6-4f1c-8ea7-2de73fd31758)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Description
